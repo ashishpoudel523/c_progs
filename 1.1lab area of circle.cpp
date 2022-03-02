@@ -1,4 +1,4 @@
-/* Lab sheet :1     
+/* Lab sheet :1.     
  c is free form i.e. all program can be written imn the same line
 Program 1: Program to calculate area of a circle having its radius =5 .
 Lab date: 2076/02/03 */
