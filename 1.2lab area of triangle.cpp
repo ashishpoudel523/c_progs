@@ -1,4 +1,4 @@
-/* Lab sheet :1 
+/* Lab sheet :1 .
 Program 2: Program to calculate area of a triangle having its base = 4 cm and height = 5cm.
 Lab date: 2076/02/03 */
 
